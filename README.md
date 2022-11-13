@@ -1,6 +1,6 @@
 # Ask "Who", Not "What": Bitcoin Volatility Forecasting with Twitter Data
 
-This repository contains (part of) the code, document and references for the paper "Ask "Who", Not "What": Bitcoin Volatility Forecasting with Twitter Data" by M. Eren Akbiyik, Mert Erkul, Killian Kämpf, Dr. Vaiva Vasiliauskaite and Dr. Nino Antulov-Fantulin at ETH Zürich. This work is published in the Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23).
+This repository contains (part of) the code, document and references for the paper '**Ask "Who", Not "What": Bitcoin Volatility Forecasting with Twitter Data**' by *M. Eren Akbiyik, Mert Erkul, Killian Kämpf, Dr. Vaiva Vasiliauskaite* and *Dr. Nino Antulov-Fantulin* at ETH Zürich. This work is published in the Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23).
 
 ## Dataset
 
