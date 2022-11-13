@@ -12,9 +12,7 @@ If you use this code or the dataset, please cite our paper.
 
 ### ACM Reference Format
 
-```acm
-M. Eren Akbiyik, Mert Erkul, Killian Kämpf, Vaiva Vasiliauskaite, and Nino Antulov-Fantulin. 2023. Ask “Who”, Not “What”: Bitcoin Volatility Forecasting with Twitter Data. In *Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM ’23), February 27–March 3, 2023, Singapore, Singapore*. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3539597.3570387
-```
+> M. Eren Akbiyik, Mert Erkul, Killian Kämpf, Vaiva Vasiliauskaite, and Nino Antulov-Fantulin. 2023. Ask “Who”, Not “What”: Bitcoin Volatility Forecasting with Twitter Data. In *Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM ’23), February 27–March 3, 2023, Singapore, Singapore*. ACM, New York, NY, USA, 9 pages. <https://doi.org/10.1145/3539597.3570387>
 
 ### BibTeX
 
@@ -36,10 +34,6 @@ M. Eren Akbiyik, Mert Erkul, Killian Kämpf, Vaiva Vasiliauskaite, and Nino Antu
     series = {WSDM ’23}
 }
 ```
-
-## Abstract
-
-Understanding the variations in trading price (volatility), and its response to exogenous information, is a well-researched topic in finance. In this study, we focus on finding stable and accurate volatility predictors for a relatively new asset class of cryptocurrencies, in particular Bitcoin, using deep learning representations of public social media data obtained from Twitter. For our experiments, we extracted semantic information and user statistics from over 30 million Bitcoin-related tweets, in conjunction with 15-minute frequency price data over a horizon of 144 days. Using this data, we built several deep learning architectures that utilized different combinations of the gathered information. For each model, we conducted ablation studies to assess the influence of different components and feature sets over the prediction accuracy. We found statistical evidences for the hypotheses that: (i) temporal convolutional networks perform significantly better than both classical autoregressive models and other deep learning-based architectures in the literature, and (ii) tweet author meta-information, even detached from the tweet itself, is a better predictor of volatility than the semantic content and tweet volume statistics. We demonstrate how different information sets gathered from social media can be utilized in different architectures and how they affect the prediction results. As an additional contribution, we make our dataset public for future research.
 
 ## Acknowledgements
 
