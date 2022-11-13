@@ -1,6 +1,6 @@
 # Ask "Who", Not "What": Bitcoin Volatility Forecasting with Twitter Data
 
-This repository contains the code, document and references for the paper "Ask "Who", Not "What": Bitcoin Volatility Forecasting with Twitter Data" by M. Eren Akbiyik, Mert Erkul, Killian Kämpf, Dr. Vaiva Vasiliauskaite and Dr. Nino Antulov-Fantulin at ETH Zürich. This work is published in the Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23).
+This repository contains (part of) the code, document and references for the paper "Ask "Who", Not "What": Bitcoin Volatility Forecasting with Twitter Data" by M. Eren Akbiyik, Mert Erkul, Killian Kämpf, Dr. Vaiva Vasiliauskaite and Dr. Nino Antulov-Fantulin at ETH Zürich. This work is published in the Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23).
 
 ## Dataset
 
@@ -37,4 +37,4 @@ If you use this code or the dataset, please cite our paper.
 
 ## Acknowledgements
 
-M.E.A., M.E. and K.K. thank Prof.\ Dr.\ Ce Zhang for their help during this research, Benjamin Suter for his help on the collected tweet dataset, and the the ETH Z\"urich DS3Lab for giving us access to their computer infrastructure. N.A.F. and V.V. are supported by the European Union - Horizon 2020 Program under the scheme ‘INFRAIA-01-2018-2019 - Integrating Activities for Advanced Communities’, Grant Agreement no. 871042, ‘SoBigData++: European Integrated Infrastructure for Social Mining and Big Data Analytics’ (<http://www.sobigdata.eu>).
+M.E.A., M.E. and K.K. thank Prof. Dr. Ce Zhang for their help during this research, Benjamin Suter for his help on the collected tweet dataset, and the the ETH Zürich DS3Lab for giving us access to their computer infrastructure. N.A.F. and V.V. are supported by the European Union - Horizon 2020 Program under the scheme 'INFRAIA-01-2018-2019 - Integrating Activities for Advanced Communities', Grant Agreement no. 871042, 'SoBigData++: European Integrated Infrastructure for Social Mining and Big Data Analytics' (<http://www.sobigdata.eu>).
