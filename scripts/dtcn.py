@@ -80,7 +80,3 @@ class VADER_dTCN(Model):
 
     return x
 
-if __name__ == "__main__":
-    model = VADER_dTCN()
-    print("DONE")
-    exit()
